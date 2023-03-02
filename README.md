@@ -3,4 +3,4 @@
 
 ## 실행 영상
 
-![화면-기록-2023-03-02-오후-5 24 30](https://user-images.githubusercontent.com/58679737/222372788-612d790e-8eba-4d6a-a266-5c77e6547de8.gif)
+![화면_기록_2023-03-02_오후_5_24_30_AdobeExpress](https://user-images.githubusercontent.com/58679737/222373525-d7a810ec-ecbb-40fd-bcf2-18ad78571da3.gif)
